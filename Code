@@ -1,0 +1,12 @@
+q = input ("What size pizza (in inches) will you sell?")
+q1 = input ("What is your cost per square inch of pizza? ")
+# qq = input ("How much in profit should each sale pizza generate? ")
+# b = input (q + " ")
+# p = 3.14159
+# b = (int(b) / 2) ** 2 * p
+# c = float(input("What is your cost per square inch of pizza? "))
+# cost = c * 100
+# d = input(qq)
+# d = float(d)
+# q1 = "You must charge at least $" + str(((c * b + d * 100) // 1) / 100)
+# print(q1 + " to make a profit of $"+str(d)+" on a " + str(int((b / p) ** (1 / 2) * 2)) + "-inch pizza")
